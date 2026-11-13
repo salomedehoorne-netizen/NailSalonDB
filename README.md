@@ -73,3 +73,5 @@ SELECT * FROM dbo.vw_ServicePerformance;
 - Organize additional data validation and KPI analysis queries
 
 *Learning project. No real client information is included.*
+
+![NailSalonDB Database Diagram](nailsalon-erd.png)
